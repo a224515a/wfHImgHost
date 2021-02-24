@@ -56,3 +56,5 @@
 ![OT4-WFH_20210119_1gRAIVOWWRShX.png]( https://cdn.jsdelivr.net/gh/a224515a/wfHImgHost/OT4-WFH_20210119_1gRAIVOWWRShX.png) 
 ![OT4-WFH_20210119_1hL61FRz6Shh2.png]( https://cdn.jsdelivr.net/gh/a224515a/wfHImgHost/OT4-WFH_20210119_1hL61FRz6Shh2.png) 
 ![LGGRAM-WFH_20210124_26YZEGyREN9aT.png]( https://cdn.jsdelivr.net/gh/a224515a/wfHImgHost/LGGRAM-WFH_20210124_26YZEGyREN9aT.png) 
+![壓縮APPDATA示範.gif]( https://cdn.jsdelivr.net/gh/a224515a/wfHImgHost/壓縮APPDATA示範.gif) 
+![上傳APPDATA示範.gif]( https://cdn.jsdelivr.net/gh/a224515a/wfHImgHost/上傳APPDATA示範.gif) 

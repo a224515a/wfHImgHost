@@ -58,3 +58,4 @@
 ![LGGRAM-WFH_20210124_26YZEGyREN9aT.png]( https://cdn.jsdelivr.net/gh/a224515a/wfHImgHost/LGGRAM-WFH_20210124_26YZEGyREN9aT.png) 
 ![壓縮APPDATA示範.gif]( https://cdn.jsdelivr.net/gh/a224515a/wfHImgHost/壓縮APPDATA示範.gif) 
 ![上傳APPDATA示範.gif]( https://cdn.jsdelivr.net/gh/a224515a/wfHImgHost/上傳APPDATA示範.gif) 
+![上傳收案清單流水號示範.gif]( https://cdn.jsdelivr.net/gh/a224515a/wfHImgHost/上傳收案清單流水號示範.gif) 

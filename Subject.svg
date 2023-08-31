@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   inkscape:export-ydpi="113.68421"
+   inkscape:export-xdpi="113.68421"
+   sodipodi:version="0.32"
+   inkscape:export-filename="C:\Users\NGrenvilleHunt\Desktop\Camera Icons\MxStrobeOn.png"
+   sodipodi:docname="Subject.svg"
+   inkscape:version="0.48.4 r9939"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   x="0"
+   y="0"
+   width="160"
+   height="160"
+   viewBox="0 0 160 160"
+   enable-background="new 0 0 160 160"
+   xml:space="preserve"><metadata
+   id="metadata19"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata>
+<defs
+   id="defs3">
+	
+	
+		<inkscape:perspective
+   id="perspective10"
+   sodipodi:type="inkscape:persp3d"
+   inkscape:vp_x="0 : 526.18109 : 1"
+   inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+   inkscape:vp_z="744.09448 : 526.18109 : 1"
+   inkscape:vp_y="0 : 1000 : 0">
+		</inkscape:perspective>
+	
+		<inkscape:perspective
+   id="perspective2433"
+   sodipodi:type="inkscape:persp3d"
+   inkscape:vp_x="0 : 10 : 1"
+   inkscape:persp3d-origin="10 : 6.6666667 : 1"
+   inkscape:vp_z="20 : 10 : 1"
+   inkscape:vp_y="0 : 1000 : 0">
+		</inkscape:perspective>
+</defs>
+<sodipodi:namedview
+   objecttolerance="10"
+   id="base"
+   inkscape:pageopacity="0.0"
+   showgrid="true"
+   inkscape:cy="70.797204"
+   inkscape:window-width="1280"
+   bordercolor="#666666"
+   inkscape:zoom="2.9155157"
+   borderopacity="1.0"
+   inkscape:pageshadow="2"
+   inkscape:current-layer="svg2"
+   inkscape:window-height="698"
+   inkscape:cx="80.583981"
+   inkscape:window-y="-8"
+   inkscape:window-x="-8"
+   pagecolor="#ffffff"
+   inkscape:document-units="px"
+   inkscape:window-maximized="1"
+   gridtolerance="10000"
+   guidetolerance="10"
+   inkscape:snap-bbox="true">
+	
+		<inkscape:grid
+   type="xygrid"
+   color="#646464"
+   id="grid2383"
+   originx="0"
+   spacingx="0.5px"
+   opacity="0.03921569"
+   visible="true"
+   spacingy="0.5px"
+   enabled="true"
+   empspacing="2"
+   snapvisiblegridlinesonly="true"
+   empopacity="0.19607843"
+   originy="0"
+   empcolor="#646464">
+		</inkscape:grid>
+</sodipodi:namedview>
+<path
+   d="M 147.06182,0 H 12.923636 C 5.7890909,0 0,5.7890909 0,12.916364 V 147.09091 C 0,154.21818 5.7890909,160 12.923636,160 H 147.05455 C 154.20364,160 160,154.21818 160,147.09091 V 12.916364 C 160,5.7890909 154.20364,0 147.06182,0 z"
+   id="path9"
+   style="fill:#3a6aff;fill-opacity:1"
+   inkscape:connector-curvature="0" />
+<g
+   id="g11"
+   transform="scale(7.2727273,7.2727273)">
+	<g
+   id="g13">
+		<ellipse
+   cx="10.833"
+   cy="6.4520001"
+   rx="3.5610001"
+   ry="3.5769999"
+   id="ellipse15"
+   d="m 14.394,6.4520001 c 0,1.9755225 -1.594314,3.5769999 -3.561,3.5769999 -1.9666859,0 -3.5609999,-1.6014774 -3.5609999,-3.5769999 0,-1.9755225 1.594314,-3.5769999 3.5609999,-3.5769999 1.966686,0 3.561,1.6014774 3.561,3.5769999 z"
+   sodipodi:cx="10.833"
+   sodipodi:cy="6.4520001"
+   sodipodi:rx="3.5610001"
+   sodipodi:ry="3.5769999"
+   style="fill:#ffffff" />
+	</g>
+	<path
+   d="m 14.562,10.413 c -1.059,-0.144 -2.436,0 -3.716,0 -1.3,0 -2.631,-0.14 -3.664,0 -1.74,0.237 -2.625,2.067 -2.877,3.612 0,0.699 0,4.271 0,4.972 h 1.949 v -4.056 h 1.245 v 4.056 h 6.791 v -4.056 h 1.244 v 4.056 h 1.957 c 0,-0.804 0,-4.242 0,-4.901 -0.292,-1.641 -1.139,-3.438 -2.929,-3.683 z"
+   id="path17"
+   inkscape:connector-curvature="0"
+   style="fill:#ffffff" />
+</g>
+</svg>
